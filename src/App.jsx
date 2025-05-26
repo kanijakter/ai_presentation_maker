@@ -2,7 +2,7 @@
 import Navbar from './components/Navbar';
 import Hero from './components/Hero';
 import GetStarted from './components/GetStarted';
-import Feature from './components/Feature'
+import Feature from './components/Feature';
 import CTA from './components/CTA';
 import Footer from './components/Footer';
 
