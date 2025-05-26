@@ -6,7 +6,7 @@ const Navbar = () => {
       <div className="container mx-auto px-4 sm:px-6 lg:px-8 flex justify-between items-center">
         <div className="flex items-center space-x-2.5">
           <div className="w-7 h-7 bg-neutral-300 rounded-full"></div>
-          <span className="text-2xl font-bold text-white">Vivid</span>
+          <span className="text-2xl font-bold text-white">AIpresentation Maker</span>
         </div>
         <nav className="hidden md:flex space-x-8 items-center">
           <a href="#" className="text-amber-500 hover:text-amber-400 font-medium">Home</a>
